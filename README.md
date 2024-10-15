@@ -1,4 +1,4 @@
-(Group 2)[./Group 2.md]
+[Page 2](./Group2.md)
 
 # Markdown Basics
 
